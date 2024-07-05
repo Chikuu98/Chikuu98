@@ -1,8 +1,8 @@
-# Hello, I'm Chiran Jeewantha! 👋
+<!---*# Hello, I'm Chiran Jeewantha! 👋
 
-Welcome to my GitHub profile! I'm an Associate Software Engineer from Sri Lanka. Here's a bit about me:
+Welcome to my GitHub profile! I'm an Associate Software Engineer from Sri Lanka. Here's a bit about me:-->
 
-## Skills and Tools
+# My Skills and Tools
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
