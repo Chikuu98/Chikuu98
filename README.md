@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm an Associate Software Engineer from Sri Lanka.
 
 <p>
 <a href="https://github.com/Chikuu98">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chikuu98&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chikuu98&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Chikuu98&theme=algolia"/>
 </a>
 </p>
