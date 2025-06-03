@@ -52,6 +52,7 @@ Welcome to my GitHub profile! I'm an Associate Software Engineer from Sri Lanka.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chiranj98/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E88E5?style=for-the-badge&logo=githubpages&logoColor=white)](https://chikuu98.github.io/portfolio/)
 [![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://twitter.com/chikuu98)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)](https://chiranjonline.medium.com/)
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/@ChiranJ)
